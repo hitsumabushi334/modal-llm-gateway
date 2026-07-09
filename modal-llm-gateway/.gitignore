@@ -141,7 +141,7 @@ dist
 # DynamoDB Local files
 
 .dynamodb/
-*.example
+
 # TernJS port file
 
 .tern-port
@@ -168,3 +168,4 @@ dist
 
 # Local Serena project metadata
 .serena/
+
